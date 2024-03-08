@@ -19,7 +19,7 @@ We are seeking a talented Full Stack Developer with experience in building high-
 This position is based in Melbourne, Australia. We are looking for local candidates but can also offer relocation and visa to those with relevant experience. 
 
 ## How to Apply
-Please send your CV, a cover letter, and any relevant project links or portfolios to glen@tyne.partners - Include 'Melbourne Full Stack Developer Application' in the subject line.
+Please send your CV, a cover letter, and any relevant project links or portfolios - Include 'Melbourne Full Stack Developer Application' in the subject line.
 
 We look forward to your application!
 
